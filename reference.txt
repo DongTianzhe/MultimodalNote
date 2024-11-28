@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/32476006/how-to-make-an-expandable-collapsable-section-widget-in-qt
+https://blog.csdn.net/weixin_45572800/article/details/103777794
+https://www.cnblogs.com/liugp/p/10509123.html
+https://www.cnblogs.com/felix-wang/p/6210184.html
