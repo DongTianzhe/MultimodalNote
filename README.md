@@ -13,3 +13,31 @@ Player can save and open workings on the main window as excel (.xlsx) file. (For
 The game aim to let player understand how moving media work using KINEIKONIC MODE by letting players analysing these media with several modes or aspects.
 
 By making this game, I have a better understanding of how to use PySide6 and its widgets. In addition, I have learnt how to manage the process of the game so that it can be finished on time.
+
+## Running it from python
+
+1. Open a console and clone the repository:
+
+``` shell
+git clone git@github.com:DongTianzhe/MultimodalNote.git
+cd MultimodalNote
+```
+
+2. Create and activate a new python environment
+
+``` shell
+python -m venv .venv 
+. .venv/bin/activate # note the . at the beginning of the line
+```
+
+3. Install the dependencies
+
+``` shell
+pip install -r requirements.txt
+```
+
+4. Open the game
+
+``` shell
+python main.py
+```
