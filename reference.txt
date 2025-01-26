@@ -1,3 +1,4 @@
+Burn, A. (2013). The kineikonic mode: Towards a multimodal approach to moving image media. NCRM Working Paper. NCRM, London, UK. (Unpublished).
 https://stackoverflow.com/questions/32476006/how-to-make-an-expandable-collapsable-section-widget-in-qt
 https://blog.csdn.net/weixin_45572800/article/details/103777794
 https://www.cnblogs.com/liugp/p/10509123.html
